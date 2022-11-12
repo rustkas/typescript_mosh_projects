@@ -1,1 +1,1 @@
-# typescript_mosh_projects
+# Typescript mosh course projects
